@@ -1,8 +1,2 @@
-# show_neighbors.sh
-
-```bash
 #!/usr/bin/env bash
-
 ip -4 neigh
-```
-
