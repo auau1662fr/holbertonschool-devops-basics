@@ -1,0 +1,8 @@
+# show_neighbors.sh
+
+```bash
+#!/bin/bash
+
+ip -4 neigh
+```
+
